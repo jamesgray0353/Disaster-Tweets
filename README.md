@@ -14,7 +14,7 @@ The dataset comprises tweets that have been manually tagged as either related to
 1. **Exploratory Data Analysis (EDA) and Preprocessing**: Initial data assessment and cleaning processes are applied to prepare the dataset into prompts for model testing and training.
 2. **Zero-Shot Learning**: Initial model performance and different prompts.
 3. **Model Training and Fine-Tuning**: Leveraging a pre-trained gemma-7b-it model, we apply fine-tuning techniques to adapt the model to our specific task of disaster tweet classification.
-4. **Evaluation and Testing**: The model's performance is evaluated on metrics such as accuracy, precision, recall, and F1-score. Further.
+4. **Evaluation and Testing**: The model's performance is evaluated on metrics such as accuracy, precision, recall, and F1-score.
 
 ## Implementation Highlights
 - **Quantization and Configuration**: Implementation details on model quantization and configuration for optimizing performance and efficiency.
