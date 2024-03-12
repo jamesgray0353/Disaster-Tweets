@@ -1,7 +1,7 @@
 # Disaster Tweet Classification with gemma-7b-it
 
 ## Overview
-This project explores the application of the gemma-7b-it model for classifying tweets into disaster-related or not. Utilizing zero-shot learning and fine-tuning strategies, we aim to accurately categorize tweets, enhancing disaster response capabilities.
+This project explores the application of the gemma-7b-it model for classifying tweets into disaster-related or not. Utilising zero-shot learning and fine-tuning, we aim to accurately categorise tweets. An application of this could be to enhancing disaster response capabilities.
 
 ## Dataset
 The dataset comprises tweets that have been manually tagged as either related to disasters or not. It originates from [Kaggle's NLP Getting Started competition](https://www.kaggle.com/c/nlp-getting-started). This is an open competition and providing a foundational basis for training and evaluating our model's performance.
